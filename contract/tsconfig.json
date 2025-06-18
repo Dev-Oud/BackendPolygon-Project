@@ -13,8 +13,8 @@
   "include": [
     "./scripts",
     "./test",
-    "./typechain-types",   // ✅ this is where type bindings are generated
+    "./typechain-types",   
     "./hardhat.config.ts",
-    "./contracts"          // optional: if you're using decorators/types inside contracts
+    "./contracts"          
   ]
 }

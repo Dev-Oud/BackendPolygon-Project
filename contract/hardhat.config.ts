@@ -6,7 +6,7 @@ import "dotenv/config";
 const config: HardhatUserConfig = {
   solidity: "0.8.19",
   paths: {
-    sources: "./contracts", // ✅ FIXED
+    sources: "./contracts", 
   },
   networks: {
     polygonAmoy: {
